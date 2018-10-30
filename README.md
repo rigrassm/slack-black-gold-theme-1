@@ -2,7 +2,7 @@
 A black and gold theme inspired by the New Orleans Saints team colors for the Slack MacOS client. Based on the [slack-dark-mojave-theme](https://github.com/elv1n/slack-dark-mojave-theme).
 
 # Preview    
-![Screenshot](https://raw.githubusercontent.com/elv1n/slack-dark-mojave-theme/master/preview.png)
+![Screenshot](https://raw.githubusercontent.com/cPanelRicky/slack-black-gold-theme/master/preview.png)
 
 # Installing into Slack    
  **NB:** You'll have to do this every time Slack updates.    
