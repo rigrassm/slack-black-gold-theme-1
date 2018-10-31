@@ -43,6 +43,12 @@ hr {
 	background-color: rgba(0, 0, 0, 0.3);
 }
 
+/* Unread message banner*/
+.p-message_pane__unread_banner {
+	background-color: var(--primary) !important;
+	color: var(--text-black) !important;
+}
+
 /* Team Picker */
 .TeamSidebar, .TeamSidebar .StoplightContainer, .TeamSidebar .TeamSidebar-addArea {
 	background-color: var(--background) !important;
