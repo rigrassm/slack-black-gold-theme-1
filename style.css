@@ -49,6 +49,12 @@ hr {
 	color: var(--text-black) !important;
 }
 
+/* Sidebar Badges */
+.p-channel_sidebar__badge, .p-channel_sidebar__banner--mentions {
+	background-color: var(--primary) !important;
+	color: var(--text-black) !important;
+}
+
 /* Team Picker */
 .TeamSidebar, .TeamSidebar .StoplightContainer, .TeamSidebar .TeamSidebar-addArea {
 	background-color: var(--background) !important;
