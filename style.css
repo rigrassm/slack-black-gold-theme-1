@@ -53,7 +53,7 @@ hr {
 .p-channel_sidebar__badge, 
 .p-channel_sidebar__banner--mentions,
 .p-channel_sidebar__badge c-mention_badge {
-	background-color: var(--primary) !important;
+	background: var(--primary) !important;
 	color: var(--text-black) !important;
 }
 
