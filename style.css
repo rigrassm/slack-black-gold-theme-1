@@ -52,14 +52,6 @@ p-shortcuts_flexpane__shortcut_title {
 	color: var(--text-black) !important;
 }
 
-/* Sidebar Badges */
-.p-channel_sidebar__badge, 
-.p-channel_sidebar__banner--mentions,
-.p-channel_sidebar__badge c-mention_badge {
-	background: var(--primary) !important;
-	color: var(--text-black) !important;
-}
-
 /* Team Picker */
 .TeamSidebar, .TeamSidebar .StoplightContainer, .TeamSidebar .TeamSidebar-addArea {
 	background-color: var(--background) !important;
@@ -268,9 +260,9 @@ li.active[class] span,
 .p-channel_sidebar__badge,
 .p-channel_sidebar__banner--mentions {
 	/*inverted because important*/
-	background-color: var(--color-highlight) !important;
-	border-color: var(--text-bright);
-	color: var(--text-bright);
+	background-color: var(--primary) !important;
+	border-color: var(--primary);
+	color: var(--text-black);
 	border: 0;
 	border-radius: 0;
 }
@@ -278,7 +270,7 @@ li.active[class] span,
 /*also add border to unread count for individual channels*/
 
 .p-channel_sidebar__badge {
-/ / border: 1 px solid;
+	border: 1 px solid;
 }
 
 /* new scrollbar */
