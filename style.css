@@ -264,7 +264,7 @@ li.active[class] span,
 	border-color: var(--primary);
 	color: var(--text-black);
 	border: 0;
-	border-radius: 0;
+	border-radius: 8px 25px 8px 25px;
 }
 
 /*also add border to unread count for individual channels*/
