@@ -1267,7 +1267,7 @@ ts-jumper ts-jumper-container {
 }
 
 c-unified_member__title c-unified_member__title--large {
-	color: var(--primary)
+	color: var(--primary) !important;
 }
 
 .c-search_message__body {
