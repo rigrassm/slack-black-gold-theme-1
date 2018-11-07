@@ -43,9 +43,11 @@ hr {
 	background-color: rgba(0, 0, 0, 0.3);
 }
 
+.p-shortcuts_flexpane__title,
 .p-shortcuts_flexpane__shortcut_title {
 	color: var(--primary) !important;
 }
+
 /* Unread message banner*/
 .p-message_pane__unread_banner {
 	background-color: var(--primary) !important;
