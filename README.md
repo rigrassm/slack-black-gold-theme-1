@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function() {
                const script = `    
                      let s = document.createElement('style');    
                      s.type = 'text/css';    
-                     s.id = 'slack-dark-mojave-css';    
+                     s.id = 'slack-black-gold-css';    
                      s.innerHTML = \`${css}\`;    
                      document.head.appendChild(s);    
                      `    
