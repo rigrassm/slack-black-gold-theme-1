@@ -180,6 +180,10 @@ ts-jumper input[type="text"],
 	box-shadow: none;
 }
 
+.c-message__editor__input--legacy {
+	background: var(--background-elevated);
+}
+
 /* buttons */
 .btn.disabled, .btn.disabled:active, .btn.disabled:hover, .btn:disabled, .btn:disabled:active, .btn:disabled:hover {
 	background-color: var(--background-light) !important;
